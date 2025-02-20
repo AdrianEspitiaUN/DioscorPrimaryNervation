@@ -1,0 +1,51 @@
+<annotation>
+  <folder>dioscorea</folder>
+  <filename>dioscorea_nyh_2251_2650/00179829.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>4850</width>
+    <height>7150</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Good Quality Leaf</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>122.77</xmin>
+      <ymin>2347.88</ymin>
+      <xmax>1801.0</xmax>
+      <ymax>4431.2</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+  <object>
+    <name>Good Quality Leaf</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1723.77</xmin>
+      <ymin>4175.2</ymin>
+      <xmax>4094.8</xmax>
+      <ymax>6007.8</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

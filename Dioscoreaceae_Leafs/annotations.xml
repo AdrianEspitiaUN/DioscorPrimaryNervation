@@ -1,0 +1,110 @@
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>297323</id>
+      <size>530</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker />
+      <created>2023-09-06 17:51:00.057387+00:00</created>
+      <updated>2023-09-07 05:00:11.281216+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>529</stop_frame>
+      <frame_filter />
+      <segments>
+        <segment>
+          <id>297520</id>
+          <start>0</start>
+          <stop>529</stop>
+          <url>https://app.cvat.ai/api/jobs/297323</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>adrian_david</username>
+        <email>adespitiab@unal.edu.co</email>
+      </owner>
+      <assignee />
+      <labels>
+        <label>
+          <name>Good Quality Leaf</name>
+          <color>#66ff66</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>leaf</name>
+          <color>#fa3253</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2023-09-07 05:00:59.125295+00:00</dumped>
+  </meta>
+  <image id="85" name="COL000287596.jpg" width="2334" height="3083">
+    <box label="leaf" source="manual" occluded="0" xtl="356.00" ytl="2298.00" xbr="545.00" ybr="2520.00" z_order="0">
+    </box>
+    <box label="Good Quality Leaf" source="manual" occluded="0" xtl="1292.00" ytl="781.00" xbr="1769.00" ybr="1095.00" z_order="0">
+    </box>
+    <box label="Good Quality Leaf" source="manual" occluded="0" xtl="620.12" ytl="1363.80" xbr="1023.12" ybr="2015.80" z_order="0">
+    </box>
+    <box label="leaf" source="manual" occluded="0" xtl="498.00" ytl="1939.00" xbr="686.00" ybr="2132.00" z_order="0">
+    </box>
+  </image>
+  <image id="211" name="COL000287745.jpg" width="2139" height="3148">
+    <box label="Good Quality Leaf" source="manual" occluded="0" xtl="23.10" ytl="86.29" xbr="1107.00" ybr="957.20" z_order="0">
+    </box>
+    <box label="leaf" source="manual" occluded="0" xtl="1113.00" ytl="865.00" xbr="1517.00" ybr="1254.00" z_order="0">
+    </box>
+    <box label="leaf" source="manual" occluded="0" xtl="527.00" ytl="1568.00" xbr="673.00" ybr="1717.00" z_order="0">
+    </box>
+    <box label="leaf" source="manual" occluded="0" xtl="704.00" ytl="1015.00" xbr="761.00" ybr="1141.00" z_order="0">
+    </box>
+    <box label="Good Quality Leaf" source="manual" occluded="0" xtl="914.75" ytl="332.40" xbr="1493.40" ybr="855.75" z_order="0">
+    </box>
+  </image>
+  <image id="215" name="COL000287749.jpg" width="2308" height="3061">
+    <box label="Good Quality Leaf" source="manual" occluded="0" xtl="524.00" ytl="273.80" xbr="1088.50" ybr="1044.00" z_order="0">
+    </box>
+    <box label="leaf" source="manual" occluded="0" xtl="596.00" ytl="1014.00" xbr="941.00" ybr="1406.00" z_order="0">
+    </box>
+    <box label="leaf" source="manual" occluded="0" xtl="1023.00" ytl="1454.00" xbr="1880.00" ybr="2281.00" z_order="0">
+    </box>
+    <box label="leaf" source="manual" occluded="0" xtl="1310.00" ytl="500.00" xbr="1568.00" ybr="1032.00" z_order="0">
+    </box>
+    <box label="leaf" source="manual" occluded="0" xtl="990.00" ytl="719.00" xbr="1918.00" ybr="1707.00" z_order="0">
+    </box>
+  </image>
+  <image id="401" name="COL000297513.jpg" width="2277" height="3083">
+    <box label="leaf" source="manual" occluded="0" xtl="1118.00" ytl="522.00" xbr="1850.00" ybr="868.00" z_order="0">
+    </box>
+    <box label="Good Quality Leaf" source="manual" occluded="0" xtl="171.00" ytl="1071.00" xbr="1076.00" ybr="2000.00" z_order="0">
+    </box>
+    <box label="Good Quality Leaf" source="manual" occluded="0" xtl="550.00" ytl="2266.00" xbr="1370.00" ybr="2989.00" z_order="0">
+    </box>
+    <box label="Good Quality Leaf" source="manual" occluded="0" xtl="571.42" ytl="637.63" xbr="1499.42" ybr="1405.63" z_order="0">
+    </box>
+    <box label="Good Quality Leaf" source="manual" occluded="0" xtl="79.42" ytl="1877.16" xbr="952.42" ybr="2588.16" z_order="0">
+    </box>
+    <box label="Good Quality Leaf" source="manual" occluded="0" xtl="1319.00" ytl="904.00" xbr="2169.00" ybr="1466.00" z_order="0">
+    </box>
+  </image>
+  <image id="471" name="COL000373072.jpg" width="2289" height="3077">
+    <box label="Good Quality Leaf" source="manual" occluded="0" xtl="820.94" ytl="375.00" xbr="1598.64" ybr="991.00" z_order="0">
+    </box>
+    <box label="Good Quality Leaf" source="manual" occluded="0" xtl="1289.11" ytl="1519.68" xbr="2204.90" ybr="2206.68" z_order="0">
+    </box>
+    <box label="Good Quality Leaf" source="manual" occluded="0" xtl="342.00" ytl="1852.00" xbr="1126.00" ybr="2681.00" z_order="0">
+    </box>
+    <box label="Good Quality Leaf" source="manual" occluded="0" xtl="327.00" ytl="286.00" xbr="857.20" ybr="885.20" z_order="0">
+    </box>
+    <box label="Good Quality Leaf" source="manual" occluded="0" xtl="55.86" ytl="1064.65" xbr="641.70" ybr="1793.80" z_order="0">
+    </box>
+    <box label="Good Quality Leaf" source="manual" occluded="0" xtl="837.80" ytl="899.00" xbr="1438.90" ybr="1871.00" z_order="0">
+    </box>
+  </image>
+</annotations>
